@@ -1669,5 +1669,9 @@ figure.dotted-bg {
       .site-footer .social li a:hover {
         background: #36a1ff;
         color: #ffffff; }
-
+        .row {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+        }
         
